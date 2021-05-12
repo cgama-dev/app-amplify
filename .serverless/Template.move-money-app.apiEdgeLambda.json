@@ -1,0 +1,17 @@
+{
+  "name": "6a2f93l-cynwovn",
+  "hash": "QljG61GviLWaIVdaWesiCcNcXI9rasehW5AijJK1Is4=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/cgama/workspace/next-apps/poc-next-ssr/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::640432635026:role/6a2f93l-tuoflre"
+  },
+  "arn": "arn:aws:lambda:us-east-1:640432635026:function:6a2f93l-cynwovn",
+  "region": "us-east-1"
+}
